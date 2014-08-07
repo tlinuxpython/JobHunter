@@ -1,4 +1,4 @@
 JobHunter
 =========
 
-http://www.zhaopin.com爬虫
+实现从http://www.zhaopin.com爬数据
